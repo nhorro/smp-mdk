@@ -1,0 +1,3 @@
+[submodule "SmpStandard"]
+	path = SmpStandard
+	url = git@github.com:NicolasIriarte/SmpStandard.git
