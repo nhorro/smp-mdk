@@ -1,3 +1,6 @@
 [submodule "SmpStandard"]
 	path = SmpStandard
 	url = git@github.com:NicolasIriarte/SmpStandard.git
+[submodule "thirdparty/Catch2"]
+	path = thirdparty/Catch2
+	url = git@github.com:catchorg/Catch2.git
