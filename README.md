@@ -4,7 +4,7 @@ SMP2 Simulator for Hardware in the Loop
 This project is forked from [Juan R. García Blanco's implementation of SMP (*Simulation Model Portability*) Model Development Kit](https://github.com/juanrgar/smp-mdk) for open-source development of SMP2 models, mainly geared for 
 academic research projects related to HIL (Hardware in the Loop) and OBC (On board computer) device and peripheral models.
 
-SMP2 standard header files have been removed from the original codebase and instead inherited from [SmpStandard project, by Nicolás Iriarte](git@github.com:NicolasIriarte/SmpStandard.git).
+SMP2 standard header files have been removed from the original codebase and instead inherited from [SmpStandard project by Nicolás Iriarte](https://github.com/NicolasIriarte/SmpStandard).
 
 **Implementation details**
 
